@@ -1,0 +1,17 @@
+{
+    "name": "alba/test_task",
+    "authors": [
+        {
+            "name": "Alba",
+            "email": "alba2020@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^6.12"
+    },
+    "autoload": {
+        "classmap": [
+            "classes", "models"
+        ]
+    }
+}
